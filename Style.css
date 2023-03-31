@@ -1,0 +1,27 @@
+.header{
+    position: absolute;
+    width: 71px;
+    height: 19px;
+    left: 315px;
+    top: 71px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(3, 169, 244, 1);
+}
+.header+p{
+    position: absolute;
+    width: 89px;
+    height: 19px;
+    left: 485px;
+    top: 71px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(125, 125, 125, 1);
+}
