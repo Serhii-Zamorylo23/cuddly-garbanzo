@@ -25,3 +25,29 @@
     line-height: 19px;
     color: rgba(125, 125, 125, 1);
 }
+.header+p+p{
+    position: absolute;
+    width: 44px;
+    height: 19px;
+    left: 674px;
+    top: 71px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #7D7D7D;
+}
+.header+p+p+p{
+    position: absolute;
+width: 52px;
+height: 19px;
+left: 818px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #7D7D7D;
+}
