@@ -69,6 +69,7 @@ color: #7D7D7D;
     font-weight: 300;
     font-size: 14px;
     line-height: 16px;
+    color: rgba(180, 173, 158, 1);
 }
 .group1>h1{
     position: absolute;
@@ -81,6 +82,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 30px;
     line-height: 40px;
+    color:rgba(98, 98, 98, 1);
 }
 .group1>.pa{
     position: absolute;
@@ -93,6 +95,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
+    color:rgba(98, 98, 98, 1);
 }
 .group2>img{
     position: absolute;
@@ -112,6 +115,7 @@ color: #7D7D7D;
     font-weight: 300;
     font-size: 14px;
     line-height: 16px;
+    color:rgba(180, 173, 158, 1);
 }
 .group2>h1{
     position: absolute;
@@ -124,6 +128,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 30px;
     line-height: 40px;
+    color:rgba(98, 98, 98, 1);
 }
 .group2>.pa{
     position: absolute;
@@ -136,7 +141,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;    
-    color: #626262;
+    color:rgba(98, 98, 98, 1);
 }
 .group3>img{
     position: absolute;
@@ -156,6 +161,7 @@ color: #7D7D7D;
     font-weight: 300;
     font-size: 14px;
     line-height: 16px;
+    color:rgba(180, 173, 158, 1);
 }
 .group3>h1{
     position: absolute;
@@ -168,6 +174,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 30px;
     line-height: 40px;
+    color:rgba(98, 98, 98, 1);
 }
 .group3>.pa{
     position: absolute;
@@ -180,7 +187,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
-    color: #626262;
+    color:rgba(98, 98, 98, 1);
 }
 .group4>img{
     position: absolute;
@@ -200,6 +207,7 @@ color: #7D7D7D;
     font-weight: 300;
     font-size: 14px;
     line-height: 16px;
+    color:rgba(180, 173, 158, 1);
 }
 .group4>h1{
     position: absolute;
@@ -212,6 +220,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 30px;
     line-height: 40px;
+    color:rgba(98, 98, 98, 1);
 }
 .group4>.pa{
     position: absolute;
@@ -224,7 +233,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
-    color: #626262;
+    color:rgba(98, 98, 98, 1);
 }
 .group5>img{
     position: absolute;
@@ -244,6 +253,7 @@ color: #7D7D7D;
     font-weight: 300;
     font-size: 14px;
     line-height: 16px;
+    color:rgba(180, 173, 158, 1);
 }
 .group5>h1{
     position: absolute;
@@ -256,6 +266,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 30px;
     line-height: 40px;
+    color:rgba(98, 98, 98, 1);
 }
 .group5>.pa{
     position: absolute;
@@ -268,7 +279,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;    
-    color: #626262;
+    color:rgba(98, 98, 98, 1);
 }
 .group6>img{
     position: absolute;
@@ -288,6 +299,7 @@ color: #7D7D7D;
     font-weight: 300;
     font-size: 14px;
     line-height: 16px;
+    color:rgba(180, 173, 158, 1);
 }
 .group6>h1{
     position: absolute;
@@ -300,6 +312,7 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 30px;
     line-height: 40px;
+    color:rgba(98, 98, 98, 1);
 }
 .group6>.pa{
     position: absolute;
@@ -312,23 +325,12 @@ color: #7D7D7D;
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
-    color: #626262;
+    color:rgba(98, 98, 98, 1);
 }
 .btn{
     position: absolute;
-    width: 68px;
-    height: 19px;
-    left: 49px;
-    top: 20px;
-    font-family: 'Playfair Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
-    position: absolute;
     width: 165px;
     height: 60px;
-    left: 0px;
-    top: 0px;
-    border: 1px solid #626262;
+    left: 529px;
+    top: 2110px;
 }
